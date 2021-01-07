@@ -5,6 +5,28 @@ html {
   line-height: 1.4;
 }
 body{
-  background: yellow;
+
+  background: mediumaquamarine;
   color: black;
+}
+.fototo{
+  size:310px 210px;
+}
+header{
+  font-family: "Century Gothic";
+  font-size: large;
+  margin: auto;
+  width: 20%;
+  align-content: center;
+
+}
+
+h2{
+  font-family: "Century Gothic";
+  font-style: italic;
+  font-size: medium;
+}
+
+footer{
+
 }
